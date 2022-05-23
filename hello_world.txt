@@ -1,0 +1,3 @@
+hello
+just trying out git from the odin project
+it's going well
